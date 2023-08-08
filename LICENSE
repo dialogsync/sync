@@ -1,0 +1,29 @@
+
+Licensing Agreement
+
+This License Agreement (this “Agreement”) is made effective as of 08.08.2023 between Licensor: Softreck OÜ, of Pärnu mnt. 139c - 14, 11317 Tallinn, Estonia, and Customer of the Software.
+
+Restriction Library License
+This Restricted License ("License") applies to the use, access, and redistribution of the Python library and its associated documentation (collectively referred to as "the Software").
+
+1. License Grant:
+   a. Permission is granted to use and access the Software for the sole purpose of developing, testing, and deploying applications or services.
+   b. The right to redistribute or share the Software is explicitly prohibited. Users are not allowed to share, sell, sublicense, or transfer the Software, in whole or in part, to any third-party.
+
+2. Code Access and Modifications:
+   a. The source code of the Software is provided solely for reference purposes and personal learning.   
+   b. Users are permitted to modify the code of the Software for their own personal use and customization, without the requirement of redistributing those modifications.
+   c. Users are prohibited from distributing or making publicly available any modified versions of the Software or its components, whether in source code or compiled form, without prior written consent from the Licensor.
+
+3. Intellectual Property:
+   a. All intellectual property rights, including but not limited to copyrights, patents, trademarks, and trade secrets, related to the Software and its documentation are retained by the Licensor.
+   b. This License does not grant any ownership rights to the Software.
+
+4. Warranty and Liability:
+   a. The Software is provided "as is" without any warranties, expressed or implied. The Licensor does not guarantee the accuracy, reliability, or suitability of the Software for any particular purpose.
+   
+5. Termination:
+   a. The License is effective until terminated by either party. The Licensor may terminate this License at any time if the user fails to comply with its terms and conditions.
+   b. Upon termination, the user must cease all use, access, and redistribution of the Software and destroy any copies in their possession.
+
+
